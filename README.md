@@ -1,4 +1,4 @@
-# QR stego crypt
+# QR image steganography
 
 MATLAB experiment in hiding one QR code inside an image while a second one
 sits in plain sight as a decoy.
